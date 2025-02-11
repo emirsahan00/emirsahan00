@@ -17,8 +17,5 @@
 <!--![](https://github-contributor-stats.vercel.app/api?username=emirsahan00&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emirsahan00/emirsahan00/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emirsahan00/emirsahan00/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emirsahan00/emirsahan00/output/github-contribution-grid-snake.svg">
-</picture>
+
+![snake gif](https://github.com/emirsahan00/emirsahan00/blob/output/github-snake-dark.svg)
