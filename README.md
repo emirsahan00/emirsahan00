@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working on Deep Learning, Computer Vision<br>
 👯 I'm looking to collaborate on Image-Based AI Projects<br>
-🌱 I'm currently learning Federated Learning<br>
+🌱 I'm currently learning 3D Image Processing<br>
 📫 How to reach me sahanemircan64@gmail.com
 
 ## 🌐 Socials:
